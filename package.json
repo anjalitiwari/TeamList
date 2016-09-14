@@ -1,0 +1,12 @@
+{
+  "name": "passport-google-oauth2-example",
+  "version": "0.0.0",
+  "dependencies": {
+    "ejs": ">= 0.0.0",
+    "express": ">= 0.0.0",
+    "http-server": "^0.9.0",
+    "jquery": "^3.1.0",
+    "passport": ">= 0.0.0",
+    "passport-google-oauth2": ">= 0.0.0"
+  }
+}
